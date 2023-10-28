@@ -7,5 +7,5 @@
 
 import Foundation
 
-let apiKey = "d15e9a346e61cf18ffdaead9a4e1fee5"
+let apiKey = "Please put your key"
 let baseURL = "https://financialmodelingprep.com/api/v3/"
